@@ -1,0 +1,15 @@
+[
+ {
+  "name": "cursor-lab",
+  "description": "A single-screen workbench for custom web cursors. 27 live cursors, every parameter tunable, and the JS / React / CSS snippet is generated from the values you tuned. No build step, no dependencies.",
+  "url": "https://github.com/oleksand4rux-del/cursor-lab",
+  "homepageUrl": "https://cursor-lab-coral.vercel.app",
+  "stargazerCount": 35,
+  "forkCount": 1,
+  "pushedAt": "2026-11-20T16:37:15Z",
+  "primaryLanguage": {
+   "name": "TypeScript",
+   "color": "#3178c6"
+  }
+ }
+]
