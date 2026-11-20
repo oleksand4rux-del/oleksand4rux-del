@@ -28,8 +28,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install font tools
-        run: pip install fonttools==4.* brotli
+      - name: Install font tools and Pillow
+        run: pip install "fonttools==4.*" brotli pillow
 
       - name: Fetch contributions and featured repos
         env:
